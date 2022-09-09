@@ -1,0 +1,17 @@
+{
+    "name": "com.swaggyscripts.materialoverrides",
+    "version": "1.2.3",
+    "displayName": "Material Overrides",
+    "description": "Allows you to override the material of any object in the game.",
+    "unity": "2019.3",
+    "unityRelease": "0b5",
+    "dependencies": {
+    },
+    "keywords": [
+    ],
+    "author": {
+        "name": "Aidan Mckeown",
+        "email": "aidos.mc@hotmail.com",
+        "url": "https://github.com/swagathaur/"
+    }
+}
